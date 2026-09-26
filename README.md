@@ -59,36 +59,36 @@ Solução para processamento de eventos de abandono de carrinho, controle de ele
 **Destaques técnicos**
 
 - processamento automatizado de eventos;
-- identificação de produtos;
+- identificação e normalização de produtos;
 - controle de elegibilidade;
 - prevenção de reentrada;
 - histórico de processamento;
 - personalização da comunicação.
 
-📁 **Case:** `cases/abandoned-cart`
+[**📖 Ver case completo →**](cases/abandoned-cart/README.md)
 
 ---
 
 ## 02 · 👋 Jornada de Boas-Vindas
 
-### Welcome Journey & Product Personalization
+### Welcome Journey & Dynamic Product Personalization
 
-Jornada de boas-vindas com conteúdo personalizado e recomendação dinâmica de produtos utilizando dados processados no Marketing Cloud.
+Jornada automatizada de boas-vindas com recomendação e apresentação dinâmica de produtos utilizando dados preparados no Marketing Cloud.
 
 **Principais conceitos**
 
-`Journey Builder` `Automation Studio` `Content Builder` `AMPscript` `SQL`
+`Journey Builder` `Automation Studio` `Content Builder` `AMPscript` `SQL` `JSON`
 
 **Destaques técnicos**
 
 - preparação dos dados;
-- ranking de produtos;
+- ranking e priorização de produtos;
 - conteúdo dinâmico;
 - personalização de e-mail;
-- construção de vitrine de produtos;
-- integração entre dados e conteúdo.
+- vitrine adaptável à quantidade de produtos;
+- integração entre dados, jornada e conteúdo.
 
-📁 **Case:** `cases/welcome-journey`
+[**📖 Ver case completo →**](cases/welcome-journey/README.md)
 
 ---
 
@@ -96,30 +96,30 @@ Jornada de boas-vindas com conteúdo personalizado e recomendação dinâmica de
 
 ### Omnichannel Consent Management
 
-Estrutura para consolidação e processamento de informações de **opt-in e opt-out** provenientes de diferentes canais de comunicação.
+Solução para consolidação e normalização de informações de **opt-in e opt-out** provenientes de diferentes canais de comunicação em uma visão centralizada por cliente.
 
 **Principais conceitos**
 
-`SQL` `Data Views` `Email` `SMS` `Push` `WhatsApp`
+`Automation Studio` `SQL` `Data Views` `Email` `SMS` `Push` `WhatsApp`
 
 **Destaques técnicos**
 
 - consolidação de consentimentos;
 - múltiplas fontes de dados;
 - normalização de status;
-- processamento automatizado;
+- processamento por canal;
 - visão centralizada por cliente;
-- preparação para integração com sistemas externos.
+- preparação para integrações externas.
 
-📁 **Case:** `cases/consent-management`
+[**📖 Ver case completo →**](cases/consent-management/README.md)
 
 ---
 
 ## 04 · 📊 Marketing Reporting
 
-### Marketing Data & Reporting Pipeline
+### Marketing Reporting & Data Consolidation
 
-Pipeline de dados criado para consolidar e persistir métricas de campanhas e jornadas, permitindo análises além das limitações de retenção das Data Views.
+Pipeline de dados para consolidar e persistir métricas de campanhas e jornadas, permitindo análises históricas além do período de retenção das Data Views.
 
 **Principais conceitos**
 
@@ -128,15 +128,15 @@ Pipeline de dados criado para consolidar e persistir métricas de campanhas e jo
 **Destaques técnicos**
 
 - histórico de envios;
-- aberturas;
-- cliques;
-- bounces;
-- unsubscribes;
+- aberturas e cliques;
+- bounces e unsubscribes;
+- primeira e última interação;
 - consolidação de métricas;
+- processamento incremental;
 - persistência histórica;
-- automação do processamento.
+- preparação de dados para analytics.
 
-📁 **Case:** `cases/marketing-reporting`
+[**📖 Ver case completo →**](cases/marketing-reporting/README.md)
 
 ---
 
@@ -210,6 +210,7 @@ Este repositório faz parte do meu portfólio profissional e tem como objetivo d
 - processamento e modelagem de dados;
 - personalização;
 - comunicação multicanal;
+- reporting e persistência histórica;
 - integração entre dados, regras de negócio e comunicação.
 
 ---
@@ -222,7 +223,7 @@ Este repositório faz parte do meu portfólio profissional e tem como objetivo d
 
 Salesforce • Development • Automation & AI
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucasoliveira724-181717?style=for-the-badge&logo=github)](https://github.com/lucasoliveira724)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-oliveira-7948b494/)
+[![GitHub](https://img.shields.io/badge/GitHub-lucasoliveira724-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasoliveira724)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-7948b494/)
 
 </div>
